@@ -1,0 +1,18 @@
+new - Yeni oyun başlat
+join - Mövcud oyuna qoşul
+start - Oyunu başlat
+leave - İştirak etdiyin oyundan çıx
+close - Oyun lobbisini bağla
+open - Oyun lobbisini aç
+kill - Oyunu dayandır
+kick - Oyundakı oyunçuları kənarlaşdır
+enable_translations - Çoxdilli tərcümələri aktiv et
+disable_translations - Çoxdilli tərcümələri deaktiv et
+skip - Cari oyunçunun növbəsini keç
+notify_me - Bu qrupda yeni oyun başladıqda xəbər al
+help - Botdan necə istifadə etmək olar?
+modes - Oyun rejimlərinin izahı
+settings - Dil və digər ayarlar
+stats - Statistikaları göstər
+source - Mənbə məlumatlarını gör
+news - Bu bot haqqında bütün yeniliklər
